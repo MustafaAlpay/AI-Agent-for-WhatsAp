@@ -12,7 +12,10 @@ Built with a strong focus on privacy and safety, it uses on-device **Apple Intel
 
 ## Demo
 
-*(Add your demo video here showing the auto-reply in action based on the knowledge base)*
+
+https://github.com/user-attachments/assets/7a8cd91c-8ed6-4f97-a1db-9e07dd12e990
+
+
 
 ## Features
 - **Real-Time Monitoring:** Monitors conversations as they happen.
