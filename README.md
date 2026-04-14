@@ -1,7 +1,5 @@
 # AI Agent for WhatsApp 💬🤖
 
-![AI Agent for WhatsApp Hero Image](placeholder-hero-image.png)
-
 Managing customer support on WhatsApp just got easier. **AI Agent for WhatsApp** is an autonomous, AI-powered support agent that runs right on your Mac.
 
 It monitors conversations in real-time and generates rolling AI summaries so you can catch up instantly. But the best part? It can auto-reply to customers using a custom knowledge base you upload!
